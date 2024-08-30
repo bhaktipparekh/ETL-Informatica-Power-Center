@@ -5,7 +5,7 @@ This Informatica project involves Extracting, Transforming, and Loading (ETL) da
 #Tasks
 1.	Data Cleaning
    
-  	Cleanse the data from the source table and store it in a Cleaned data table.
+	Cleanse the data from the source table and store it in a Cleaned data table.
 
 2.	Sales Summary
    
