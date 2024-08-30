@@ -1,0 +1,26 @@
+1.Super Store Cleaned Data:
+CUSTOMER_ID_NAME 
+21925-Zushuss Donatelli 
+16585-Ken Black 
+21520-Tracy Blumstein
+
+2.Sales Summary:
+CUSTOMER_ID_NAME || TOTAL_SALES || AVG_SALES 
+11140-Becky Martin || 10540 || 1506
+14635-Grant Thornton || 8167 || 4084
+20290-Sean Braxton || 5580 || 2790
+
+3.Order Analysis:
+CUSTOMER_ID_NAME || ORDERS_COUNT 
+15520-Jeremy Pistek || 4 
+16510-Keith Herrera || 4
+
+4.Geography Analysis:
+CUSTOMER_ID_NAME || REGION || STATE || REGION_ORDERS_COUNT 
+14095-Eudokia Martin || West || California || 182
+
+5.Order Processing:
+CATEGORISE_PROCESSING_DAYS || ORDERS_COUNT 
+Immediate delivery || 32 
+Long Term delivery || 641
+
